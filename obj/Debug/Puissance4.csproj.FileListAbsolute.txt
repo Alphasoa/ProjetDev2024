@@ -23,7 +23,6 @@ C:\Users\soari\Documents\ProjetDev2024\obj\Debug\Puissance4.FormParametrage.reso
 C:\Users\soari\Documents\ProjetDev2024\obj\Debug\Puissance4.Properties.Resources.resources
 C:\Users\soari\Documents\ProjetDev2024\obj\Debug\Puissance4.csproj.GenerateResource.cache
 C:\Users\soari\Documents\ProjetDev2024\obj\Debug\Puissance4.csproj.CoreCompileInputs.cache
-C:\Users\soari\Documents\ProjetDev2024\obj\Debug\Puissance4.csproj.CopyComplete
 C:\Users\soari\Documents\ProjetDev2024\obj\Debug\Puissance4.exe
 C:\Users\soari\Documents\ProjetDev2024\obj\Debug\Puissance4.pdb
 C:\Users\lorks\Desktop\BUT3\R5.08\ProjetPuissance4\bin\Debug\Puissance4.exe.config
@@ -41,3 +40,4 @@ C:\Users\lorks\Desktop\BUT3\R5.08\ProjetPuissance4\obj\Debug\Puissance4.csproj.C
 C:\Users\lorks\Desktop\BUT3\R5.08\ProjetPuissance4\obj\Debug\Puissance4.csproj.CopyComplete
 C:\Users\lorks\Desktop\BUT3\R5.08\ProjetPuissance4\obj\Debug\Puissance4.exe
 C:\Users\lorks\Desktop\BUT3\R5.08\ProjetPuissance4\obj\Debug\Puissance4.pdb
+C:\Users\soari\Documents\ProjetDev2024\obj\Debug\Puissance4.csproj.Up2Date
